@@ -1,0 +1,108 @@
+# Blender 5.2.0 LTS MTL File: 'None'
+# www.blender.org
+
+newmtl covered-wagon_bed_paint_x
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+Pr 0.600000
+Pm 0.000000
+Ps 0.000000
+Pc 0.000000
+Pcr 0.030000
+aniso 0.000000
+anisor 0.000000
+map_Kd covered-wagon_wood_himmel_40.jpg
+
+newmtl covered-wagon_body_pbr
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+Ps 0.000000
+Pc 0.000000
+Pcr 0.030000
+aniso 0.000000
+anisor 0.000000
+map_Kd covered-wagon_body_basecolor.jpg
+map_Pm covered-wagon_body_metallic-covered-wagon_body_roughness_metallic.jpg
+map_Pr covered-wagon_body_metallic-covered-wagon_body_roughness_roughness.jpg
+map_Bump -bm 1.000000 covered-wagon_body_normal.jpg
+
+newmtl covered-wagon_bows_x
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+Pr 0.650000
+Pm 0.000000
+Ps 0.000000
+Pc 0.000000
+Pcr 0.030000
+aniso 0.000000
+anisor 0.000000
+map_Kd covered-wagon_wood_holz_sonne.jpg
+
+newmtl covered-wagon_gear_paint_x
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+Pr 0.600000
+Pm 0.000000
+Ps 0.000000
+Pc 0.000000
+Pcr 0.030000
+aniso 0.000000
+anisor 0.000000
+map_Kd covered-wagon_wood_canyon_35.jpg
+
+newmtl covered-wagon_iron_x
+Kd 0.111932 0.127438 0.162029
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 3
+Pr 0.450000
+Pm 0.300000
+Ps 0.000000
+Pc 0.000000
+Pcr 0.030000
+aniso 0.000000
+anisor 0.000000
+
+newmtl covered-wagon_lantern_glow_x
+Kd 0.921582 0.644480 0.168269
+Ks 0.500000 0.500000 0.500000
+Ke 2.764746 1.933439 0.504808
+Ni 1.500000
+d 1.000000
+illum 2
+Pr 0.400000
+Pm 0.000000
+Ps 0.000000
+Pc 0.000000
+Pcr 0.030000
+aniso 0.000000
+anisor 0.000000
+
+newmtl covered-wagon_lantern_metal_x
+Kd 0.111932 0.127438 0.162029
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 3
+Pr 0.450000
+Pm 0.300000
+Ps 0.000000
+Pc 0.000000
+Pcr 0.030000
+aniso 0.000000
+anisor 0.000000

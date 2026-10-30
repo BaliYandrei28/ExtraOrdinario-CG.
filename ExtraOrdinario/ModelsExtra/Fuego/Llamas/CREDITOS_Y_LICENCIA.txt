@@ -1,0 +1,8 @@
+MODELO ORIGINAL: Fuego
+Autor: panaderopickashop
+Fuente: https://sketchfab.com/3d-models/fuego-e97fe807d7f84c4193d06c833d97fa58
+Licencia indicada en la pagina: Creative Commons Attribution (CC BY).
+https://creativecommons.org/licenses/by/4.0/
+
+MODIFICACIONES: se exporto la geometria de troncos del archivo FBX original a OBJ; se convirtio la hoja de sprites original del fuego en 8 imagenes RGBA de llama para reproducirlas con el proyecto de OpenGL.
+Se han redistribuido texturas originales transformadas y se conserva la atribucion.
