@@ -1,0 +1,46 @@
+# Colores del pozo de Quaternius - CC0
+
+newmtl Wood
+Ka 0.250000 0.250000 0.250000
+Kd 1.000000 1.000000 1.000000
+Ks 0.080000 0.080000 0.080000
+Ns 8.000000
+d 1.000000
+illum 2
+map_Kd pozo_Wood.png
+
+newmtl Bag
+Ka 0.250000 0.250000 0.250000
+Kd 1.000000 1.000000 1.000000
+Ks 0.080000 0.080000 0.080000
+Ns 8.000000
+d 1.000000
+illum 2
+map_Kd pozo_Bag.png
+
+newmtl RoofTiles_Red
+Ka 0.250000 0.250000 0.250000
+Kd 1.000000 1.000000 1.000000
+Ks 0.080000 0.080000 0.080000
+Ns 8.000000
+d 1.000000
+illum 2
+map_Kd pozo_RoofTiles_Red.png
+
+newmtl Stone_Dark
+Ka 0.250000 0.250000 0.250000
+Kd 1.000000 1.000000 1.000000
+Ks 0.080000 0.080000 0.080000
+Ns 8.000000
+d 1.000000
+illum 2
+map_Kd pozo_Stone_Dark.png
+
+newmtl Stone_Light
+Ka 0.250000 0.250000 0.250000
+Kd 1.000000 1.000000 1.000000
+Ks 0.080000 0.080000 0.080000
+Ns 8.000000
+d 1.000000
+illum 2
+map_Kd pozo_Stone_Light.png
