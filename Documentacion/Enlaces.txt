@@ -1,0 +1,10 @@
+EXAMEN EXTRAORDINARIO - COMPUTACIÓN GRÁFICA
+
+VIDEO DEMOSTRATIVO
+https://drive.google.com/file/d/16cfoQg4gvKCGf4QgB9oUBTjmuVmYg0yT/view?usp=sharing
+
+INSTALADOR DEL PROYECTO
+https://github.com/BaliYandrei28/ExtraOrdinario-CG./releases/tag/v1.0.0
+
+Para instalar el programa, entrar al segundo enlace,
+descargar Setup_ExtraOrdinario.exe y ejecutarlo.
